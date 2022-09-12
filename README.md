@@ -1,6 +1,12 @@
 # Hi there, I'm Oussama 👋 
 
-### I'm a Full Stack Developer, and currently a Software Engineering Student at ENSIAS Rabat.
+### I am a Full Stack developer, and currently studying Iot and software engineering at ENSIAS Rabat.
+
+## Connect with me:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/oussama-hennane-48181319b)
+
+<br />
 
 ## Technologies and Tools:
 
@@ -18,15 +24,17 @@
 [<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" style="padding-right:10px;" />]
 [<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" style="padding-right:10px;" />]
 [<img align="left"  width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />]
+[<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />]
+
+
 
 <br />
 
 ## :zap: GitHub Stats:
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oussama379&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<br />
 
-### Connect with me:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/oussama-hennane-48181319b)
-<br />
+
+
