@@ -27,8 +27,6 @@
 [<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />]
 [<img align="left"  width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />]
 
-
-
 <br />
 
 ## :zap: GitHub Stats:
